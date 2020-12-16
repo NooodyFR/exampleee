@@ -8,8 +8,10 @@ informational: false
 resolvedWhen: ""
 affected:
   - Plex
-severity: disrupted
+severity: down
 ---
+*Mise à jour* - Plex est actuellement hors ligne suite au DDoS.
+
 *Identifié* - Nous subissons actuellement une attaque DDoS, nous venons d'activer Cloudflare pour plus de sécurité.
 
 *Investigation* - Nous avons remarqués une grande latence sur notre serveur Plex.
